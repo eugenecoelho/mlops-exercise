@@ -21,4 +21,3 @@ def test_model_score():
 
     # Compare the latest score with the current score
     assert score >= latest_score
-
